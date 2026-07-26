@@ -28,13 +28,13 @@ The project covers:
 ```
 Black-Friday-Sales-Analysis
 │
-├── BlackFridayEDA.ipynb
-├── BlackFridayDashboard.pbix
-├── dashboard.png
+├── EDA.ipynb
+├── BlackFriday.pbix
+├── Dashboard.png
 ├── README.md
-├── requirements.txt
 └── data
     └── train.csv
+    └── test.csv
 ```
 
 ---
